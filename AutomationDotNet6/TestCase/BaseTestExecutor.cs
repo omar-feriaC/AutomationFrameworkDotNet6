@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AutomationDotNet6.StepModel
+namespace AutomationDotNet6.TestCase
 {
     public class BaseTestExecutor
     {
